@@ -18,7 +18,7 @@ Este proyecto consta  en una solución.... apta para:
   * c
   
   #### Tabla
-  columna1 | columna 2 | columna3
-  ---------|-----------|---------
-  cosa | cosa coluna2 | cosa columna3
+  |columna1 | columna 2 | columna3|
+ | ---------|-----------|---------|
+  |cosa | cosa coluna2 | cosa columna3|
  
