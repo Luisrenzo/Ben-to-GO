@@ -1,4 +1,4 @@
-# Ben-to Go :yum:
+# Benyum:
 esto consiste en...
 
 ## Speach
