@@ -19,6 +19,6 @@ Este proyecto consta  en una solución.... apta para:
   
   #### Tabla
   |columna1 | columna 2 | columna3|
- | ---------|-----------|---------|
+  |---------|-----------|---------|
   |cosa | cosa coluna2 | cosa columna3|
  
