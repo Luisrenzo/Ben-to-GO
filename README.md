@@ -1,7 +1,12 @@
 # Ben-to Go :yum:
 esto consiste en...
 
-##título 2
+## Speach
+Este proyecto consta  en una solución.... apta para: 
+- [ ] Niños
+- [ ] JÓVENES
+- [x] Adultos
+### título 2
 
 *lista 1
   *sub1
@@ -12,7 +17,7 @@ esto consiste en...
   *b
   *c
   
-  ### Tabla
+  #### Tabla
   columna1 | columna 2 | columna3
   ---------|-----------|---------
   cosa | cosa coluna2 | cosa columna3
